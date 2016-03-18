@@ -1,3 +1,5 @@
+This is simple applications for Laravel CRUD demo.
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
