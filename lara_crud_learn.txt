@@ -1,0 +1,12 @@
+Laravel 5.1:
+
+reference and learning:
+https://laravel.com/docs/5.1/
+
+Application to do:
+
+
+Steps:
+1. Create database in mysql using phpmyadmin.
+2. Save the application key ex: 5cnMP360CLhwBPI0xVYXGR50xL5mpejK
+3. 
